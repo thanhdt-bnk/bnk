@@ -9,7 +9,6 @@ phases:
       - npm install
   build:
     commands:
-      - pwd
       - ls
       - npm run build
   post_build:
