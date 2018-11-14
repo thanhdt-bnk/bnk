@@ -4,7 +4,7 @@ import './index.scss';
 
 const App = () =>(
     <div>
-        Hello world!!!!!!!!!!!!!!!!!!!!!!!!!!
+        Hello world New Change!!!!!!!!!!!!!!!!!!!!!!!!!!
     </div>
 )
 
