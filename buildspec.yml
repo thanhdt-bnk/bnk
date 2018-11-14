@@ -3,9 +3,13 @@ version: 0.2
 phases:
   pre_build:
     commands:
+      - pwd
+      - ls
       - npm install
   build:
     commands:
+      - pwd
+      - ls
       - npm run build
   post_build:
     commands:
